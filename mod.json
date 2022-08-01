@@ -1,0 +1,6 @@
+{
+	"Name" : "Airborne Executions",
+	"Description" : "Disables airborne check for pilot executions, and make executions more similar to backstab mechanics from the sister game TF2.",
+	"Version": "1.1.0",
+	"LoadPriority": 2
+}
